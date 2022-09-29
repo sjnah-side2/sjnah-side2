@@ -16,5 +16,5 @@ This is my alternative account for side project and just for fun.
 <img src="https://img.shields.io/badge/Gym-0081A5?style=flat&logo=OpenAI Gym&logoColor=white"/><img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
 <!-- Hit Counter -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjnah-side2%2Fhitcounter&count_bg=%233DACC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjnah-side2%2Fhit-counter&count_bg=%233DACC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </center> 
